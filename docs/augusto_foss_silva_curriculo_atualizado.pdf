@@ -1,0 +1,480 @@
+%PDF-1.6
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 2
+/Kids [ 4 0 R 11 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type /Page
+/MediaBox [ 0.0 0.0 595.27563 841.8898 ]
+/Resources 5 0 R
+/Contents 10 0 R
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Font 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+/F3 9 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+>>
+endobj
+8 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+>>
+endobj
+9 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica-Oblique
+/Encoding /WinAnsiEncoding
+>>
+endobj
+10 0 obj
+<<
+/Length 6383
+>>
+stream
+BT
+/F1 22 Tf
+/DeviceRGB cs
+0.00784 0.07059 0.06275 sc
+174.17383 785.88977 Td
+(AUGUSTO FOSS SILVA) Tj
+ET
+BT
+/F2 8.5 Tf
+0.21569 0.2549 0.31765 sc
+122.55057 759.88977 Td
+(augustfs9\100gmail\056com  \267  Brazil  \267  https\072\057\057www\056linkedin\056com\057in\057augusto\055foss\055silva\0556053491ba\057) Tj
+ET
+/DeviceRGB CS
+0.81961 0.83529 0.85882 SC
+0.75 w
+56 737.88977 m
+539.27563 737.88977 l
+S
+BT
+/F1 9 Tf
+0.10196 0.72157 0.65098 sc
+56 721.88977 Td
+(RESUMO PROFISSIONAL) Tj
+ET
+0.10196 0.72157 0.65098 SC
+0.5 w
+56 717.88977 m
+539.27563 717.88977 l
+S
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+56 707.88977 Td
+(Software Engineer com mais de 5 anos de experi\352ncia na entrega de aplica\347\365es web escal\341veis em ambientes) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+56 693.88977 Td
+(acad\352micos\054 fintech e corporativos\056 Especialista em desenvolvimento backend\057frontend\054 APIs REST\054 cloud \050Microsoft) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+56 679.88977 Td
+(Azure\051 e arquitetura limpa\056 Lideran\347a t\351cnica comprovada\054 suporte a sistemas em produ\347\343o e colabora\347\343o com equipes) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+56 665.88977 Td
+(multifuncionais para otimizar fluxos de trabalho e efici\352ncia operacional\056) Tj
+ET
+BT
+/F1 9 Tf
+0.10196 0.72157 0.65098 sc
+56 627.88977 Td
+(COMPET\312NCIAS) Tj
+ET
+0.10196 0.72157 0.65098 SC
+0.5 w
+56 623.88977 m
+539.27563 623.88977 l
+S
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+56 613.88977 Td
+(Backend\072 PHP\054 Laravel\054 Java\054 Python\054 Node\056js\054 MySQL\054 Docker\054 Linux\054 Frontend\072 Vue\056js\054 React\054 Cloud\072 Microsoft Azure\054) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+56 599.88977 Td
+(Outras\072 REST APIs\054 Git) Tj
+ET
+BT
+/F1 9 Tf
+0.10196 0.72157 0.65098 sc
+56 563.88977 Td
+(EXPERI\312NCIA PROFISSIONAL) Tj
+ET
+0.10196 0.72157 0.65098 SC
+0.5 w
+56 559.88977 m
+539.27563 559.88977 l
+S
+BT
+/F1 10 Tf
+0.00784 0.07059 0.06275 sc
+56 549.88977 Td
+(Full Stack Developer) Tj
+ET
+BT
+/F1 10 Tf
+0.00784 0.07059 0.06275 sc
+450.90564 549.88977 Td
+(Jun\0572024 \055 Present) Tj
+ET
+BT
+/F3 9.5 Tf
+0.21569 0.2549 0.31765 sc
+56 536.88977 Td
+(Pontifical Catholic University of Paran\341 \050PUC\055PR\051) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 522.88977 Td
+(\225 Liderei decis\365es t\351cnicas e a constru\347\343o de novas aplica\347\365es acad\352micas para usu\341rios externos e departamentos) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 508.88977 Td
+(internos\054 atuando como l\355der de projeto\056) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 492.88977 Td
+(\225 Garanti a estabilidade\054 disponibilidade e resolu\347\343o de incidentes em sistemas acad\352micos hospedados no Microsoft) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 478.88977 Td
+(Azure\054 fornecendo manuten\347\343o e suporte cont\355nuos\056) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 462.88977 Td
+(\225 Colaborei com designers UX e stakeholders de neg\363cios para traduzir requisitos em solu\347\365es confi\341veis e focadas) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 448.88977 Td
+(no usu\341rio\056) Tj
+ET
+BT
+/F1 10 Tf
+0.00784 0.07059 0.06275 sc
+56 426.88977 Td
+(Software Engineer) Tj
+ET
+BT
+/F1 10 Tf
+0.00784 0.07059 0.06275 sc
+443.11563 426.88977 Td
+(Mar\0572024 \055 May\0572024) Tj
+ET
+BT
+/F3 9.5 Tf
+0.21569 0.2549 0.31765 sc
+56 413.88977 Td
+(Trio Tecnologia de Pagamentos) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 399.88977 Td
+(\225 Desenvolvi ferramentas internas que otimizaram fluxos de trabalho de suporte ao cliente e efici\352ncia operacional\056) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 383.88977 Td
+(\225 Prestei suporte a sistemas de pagamento de alta disponibilidade\054 atuando diretamente com clientes corporativos) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 369.88977 Td
+(\050N1 support\051\056) Tj
+ET
+BT
+/F1 10 Tf
+0.00784 0.07059 0.06275 sc
+56 347.88977 Td
+(Full Stack Developer) Tj
+ET
+BT
+/F1 10 Tf
+0.00784 0.07059 0.06275 sc
+445.33563 347.88977 Td
+(Jan\0572023 \055 Feb\0572024) Tj
+ET
+BT
+/F3 9.5 Tf
+0.21569 0.2549 0.31765 sc
+56 334.88977 Td
+(Fluxo Business Automation) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 320.88977 Td
+(\225 Fui um contribuidor central para o SX Framework\054 suportando m\372ltiplas aplica\347\365es de neg\363cios\056) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 304.88977 Td
+(\225 Desenvolvi componentes frontend reutiliz\341veis e APIs REST com bancos de dados MySQL\056) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 288.88977 Td
+(\225 Gerenciei fluxos de trabalho Git\054 versionamento e deployments em produ\347\343o\056) Tj
+ET
+BT
+/F1 10 Tf
+0.00784 0.07059 0.06275 sc
+56 266.88977 Td
+(iOS Programmer) Tj
+ET
+BT
+/F1 10 Tf
+0.00784 0.07059 0.06275 sc
+442.00562 266.88977 Td
+(May\0572022 \055 Nov\0572022) Tj
+ET
+BT
+/F3 9.5 Tf
+0.21569 0.2549 0.31765 sc
+56 253.88977 Td
+(E\055motion) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 239.88977 Td
+(\225 Desenvolvi uma aplica\347\343o mobile de captura de movimento utilizando Swift para iOS\056) Tj
+ET
+BT
+/F1 10 Tf
+0.00784 0.07059 0.06275 sc
+56 217.88977 Td
+(Front\055End Developer) Tj
+ET
+BT
+/F1 10 Tf
+0.00784 0.07059 0.06275 sc
+444.22565 217.88977 Td
+(Dec\0572021 \055 Mar\0572022) Tj
+ET
+BT
+/F3 9.5 Tf
+0.21569 0.2549 0.31765 sc
+56 204.88977 Td
+(Printer do Brasil) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 190.88977 Td
+(\225 Implementei novas funcionalidades de interface e corre\347\365es de bugs em colabora\347\343o com analistas de QA\054) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 176.88977 Td
+(melhorando a estabilidade e usabilidade da interface\056) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 160.88977 Td
+(\225 Trabalhei em colabora\347\343o com servi\347os backend para entregar funcionalidade frontend consistente\056) Tj
+ET
+BT
+/F1 10 Tf
+0.00784 0.07059 0.06275 sc
+56 138.88977 Td
+(Front\055End Developer) Tj
+ET
+BT
+/F1 10 Tf
+0.00784 0.07059 0.06275 sc
+444.23566 138.88977 Td
+(Apr\0572021 \055 Nov\0572021) Tj
+ET
+BT
+/F3 9.5 Tf
+0.21569 0.2549 0.31765 sc
+56 125.88977 Td
+(Fluxo Business Automation) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 111.88977 Td
+(\225 Desenvolvi melhorias e novas funcionalidades para sistemas web internos\056) Tj
+ET
+BT
+/F2 9 Tf
+0.21569 0.2549 0.31765 sc
+68 95.88977 Td
+(\225 Trabalhei em estreita colabora\347\343o com servi\347os backend para entregar funcionalidade frontend consistente\056) Tj
+ET
+
+endstream
+endobj
+11 0 obj
+<<
+/Type /Page
+/MediaBox [ 0.0 0.0 595.27563 841.8898 ]
+/Resources 12 0 R
+/Contents 14 0 R
+/Parent 2 0 R
+>>
+endobj
+12 0 obj
+<<
+/Font 13 0 R
+>>
+endobj
+13 0 obj
+<<
+/F1 7 0 R
+/F2 9 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 835
+>>
+stream
+BT
+/F1 9 Tf
+/DeviceRGB cs
+0.10196 0.72157 0.65098 sc
+56 775.88977 Td
+(FORMA\307\303O ACAD\312MICA) Tj
+ET
+/DeviceRGB CS
+0.10196 0.72157 0.65098 SC
+0.5 w
+56 771.88977 m
+539.27563 771.88977 l
+S
+BT
+/F1 10 Tf
+0.00784 0.07059 0.06275 sc
+56 761.88977 Td
+(Pontifical Catholic University of Paran\341 \050PUC\055PR\051) Tj
+ET
+BT
+/F1 10 Tf
+0.00784 0.07059 0.06275 sc
+517.03564 761.88977 Td
+(2021) Tj
+ET
+BT
+/F2 9.5 Tf
+0.21569 0.2549 0.31765 sc
+56 748.88977 Td
+(B\056Sc\056 in Software Engineering) Tj
+ET
+BT
+/F1 10 Tf
+0.00784 0.07059 0.06275 sc
+56 734.88977 Td
+(Pontifical Catholic University of Paran\341 \050PUC\055PR\051) Tj
+ET
+BT
+/F1 10 Tf
+0.00784 0.07059 0.06275 sc
+517.03564 734.88977 Td
+(2026) Tj
+ET
+BT
+/F2 9.5 Tf
+0.21569 0.2549 0.31765 sc
+56 721.88977 Td
+(Postgraduate in Software Engineering\054 DevOps \046 Digital Transformation) Tj
+ET
+
+endstream
+endobj
+xref
+0 15
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000120 00000 n 
+0000000169 00000 n 
+0000000291 00000 n 
+0000000324 00000 n 
+0000000375 00000 n 
+0000000477 00000 n 
+0000000574 00000 n 
+0000000679 00000 n 
+0000007115 00000 n 
+0000007239 00000 n 
+0000007274 00000 n 
+0000007316 00000 n 
+trailer
+<<
+/Size 15
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+8203
+%%EOF
