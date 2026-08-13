@@ -85,7 +85,7 @@ const translations = {
   pt: {
     nav: ['Sobre', 'Tecnologias', 'Projetos', 'Contato'], menuOpen: 'Abrir menu', menuClose: 'Fechar menu',
     role: 'Augusto Foss Silva · Engenheiro de Software', title: <>Desenvolvedor<br/><em>Full Stack.</em></>,
-    intro: 'Mais de 5 anos desenvolvendo sistemas web, APIs e integrações. Uno backend e frontend para criar aplicações completas, seguras e alinhadas às necessidades do negócio.',
+    intro: 'Mais de 5 anos desenvolvendo sistemas web, APIs e integrações. Conecto backend e frontend para criar aplicações completas, seguras e alinhadas às necessidades do negócio.',
     projectsButton: 'Ver projetos', resumeButton: 'Baixar currículo', location: 'Curitiba · Paraná',
     quick: [['Experiência','5+ anos em desenvolvimento'],['Stack principal','PHP · Laravel · TypeScript · React · Vue'],['Atuação atual','Sistemas educacionais e integrações']],
     aboutLabel: 'Sobre mim', aboutTitle: 'Perfil profissional',
