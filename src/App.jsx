@@ -94,7 +94,7 @@ const translations = {
     factsLocation: 'LOCALIZAÇÃO', skillsLabel: 'Stack técnica', skillsTitle: 'Tecnologias e ferramentas', projectLabel: 'Projetos', projectTitle: 'Trabalhos em destaque', projectNumber: 'PROJETO / 01',
     projectName: 'Chatbot literário com IA', projectDescription: 'Aplicação com inteligência artificial para conversar sobre livros, recomendar leituras e gerar resumos. Inclui autenticação, biblioteca privada e histórico individual de conversas.',
     tags: ['Inteligência artificial','Chatbot','Autenticação'], openProject: 'Abrir projeto', mockTitle: <>Seu universo literário,<br/>em uma conversa.</>, mockText: 'Descubra livros, explore histórias e mantenha sua biblioteca sempre por perto.',
-    contact: 'Contato', contactTitle: 'Vamos conversar sobre oportunidades e projetos.', email: 'E-mail', linkedin: 'LinkedIn', footerRole: 'Engenheiro de Software · Desenvolvedor Full Stack', built: 'Desenvolvido com React', resume: '/Augusto_Foss_Silva_Curriculo_2026_08.pdf',
+    contact: 'Contato', contactTitle: 'Vamos conversar sobre oportunidades e projetos.', email: 'E-mail', linkedin: 'LinkedIn', footerRole: 'Engenheiro de Software · Desenvolvedor Full Stack', built: 'Desenvolvido com React', resume: '/Augusto_Foss_Silva_Curriculo_2026_08_27.pdf',
   },
   en: {
     nav: ['About', 'Technologies', 'Projects', 'Contact'], menuOpen: 'Open menu', menuClose: 'Close menu',
@@ -108,7 +108,7 @@ const translations = {
     factsLocation: 'LOCATION', skillsLabel: 'Technical stack', skillsTitle: 'Technologies and tools', projectLabel: 'Projects', projectTitle: 'Featured work', projectNumber: 'PROJECT / 01',
     projectName: 'AI literary chatbot', projectDescription: 'An AI-powered application for discussing books, recommending titles, and generating summaries. It includes authentication, a private library, and an individual conversation history.',
     tags: ['Artificial intelligence','Chatbot','Authentication'], openProject: 'Open project', mockTitle: <>Your literary universe,<br/>in a conversation.</>, mockText: 'Discover books, explore stories, and keep your library close at hand.',
-    contact: 'Contact', contactTitle: 'Let’s talk about opportunities and projects.', email: 'Email', linkedin: 'LinkedIn', footerRole: 'Software Engineer · Full Stack Developer', built: 'Built with React', resume: '/Augusto_Foss_Silva_Resume_2026_08.pdf',
+    contact: 'Contact', contactTitle: 'Let’s talk about opportunities and projects.', email: 'Email', linkedin: 'LinkedIn', footerRole: 'Software Engineer · Full Stack Developer', built: 'Built with React', resume: '/Augusto_Foss_Silva_Resume_2026_08_27.pdf',
   },
 };
 
